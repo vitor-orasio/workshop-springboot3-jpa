@@ -3,9 +3,7 @@
 
 # Sobre o projeto
 
-API Workshop é uma aplicação backend que foi construida durante o curso Java Completo 2023 Programação Orientada a Objetos do Nélio Alves no site da Udemy, [Curso Java](https://www.udemy.com/course/java-curso-completo/).
-
-A aplicação consiste no gerenciamento dos produtos, usuários e pedidos. Podendo inserir, consultar, deletar ou atualizar os dados.
+O workshop-springboot3-jpa é uma API RESTful desenvolvida em Java com Spring Boot 3 e JPA / Hibernate, focada no gerenciamento de um sistema de pedidos e produtos. O projeto foi estruturado seguindo as melhores práticas de desenvolvimento de software e o padrão de arquitetura em camadas (Resource, Service e Repository).
 
 ## Modelo conceitual
 ![Modelo Conceitual](https://github.com/Vitor221/assets/blob/main/domainModel.png)
